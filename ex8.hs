@@ -1,0 +1,2 @@
+--posicoes :: [a] -> [a]
+--posicoes x xs = [c | (c', e) <- zip [0..] xs, c' == x]
